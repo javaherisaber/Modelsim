@@ -1,0 +1,15 @@
+F:/modelsim/examples/workspace/ALUdataFlow/testbench.v {1 {vlog -work work -vopt {F:\modelsim\examples\workspace\ALUdataFlow\testbench.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module test
+
+Top level modules:
+	test
+
+} {} {}} F:/modelsim/examples/workspace/ALUdataFlow/AluMux.v {1 {vlog -work work -vopt F:/modelsim/examples/workspace/ALUdataFlow/AluMux.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module AluMux
+
+Top level modules:
+	AluMux
+
+} {} {}}
