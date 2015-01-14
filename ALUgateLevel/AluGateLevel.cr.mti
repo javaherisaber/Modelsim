@@ -1,0 +1,52 @@
+F:/modelsim/examples/workspace/ALUgateLevel/Mux4to1Test.v {1 {vlog -work work -vopt F:/modelsim/examples/workspace/ALUgateLevel/Mux4to1Test.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module Mux4to1test
+
+Top level modules:
+	Mux4to1test
+
+} {} {}} F:/modelsim/examples/workspace/ALUgateLevel/Mux4to1.v {1 {vlog -work work -vopt F:/modelsim/examples/workspace/ALUgateLevel/Mux4to1.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module mux4to1
+
+Top level modules:
+	mux4to1
+
+} {} {}} F:/modelsim/examples/workspace/ALUgateLevel/Alu.v {1 {vlog -work work -vopt F:/modelsim/examples/workspace/ALUgateLevel/Alu.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module alu1bit
+
+Top level modules:
+	alu1bit
+
+} {} {}} F:/modelsim/examples/workspace/ALUgateLevel/AluTest.v {1 {vlog -work work -vopt F:/modelsim/examples/workspace/ALUgateLevel/AluTest.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module AluTest
+
+Top level modules:
+	AluTest
+
+} {} {}} F:/modelsim/examples/workspace/ALUgateLevel/FullAdder.v {1 {vlog -work work -vopt F:/modelsim/examples/workspace/ALUgateLevel/FullAdder.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module FullAdder
+
+Top level modules:
+	FullAdder
+
+} {} {}} F:/modelsim/examples/workspace/ALUgateLevel/Alu8bit.v {1 {vlog -work work -vopt F:/modelsim/examples/workspace/ALUgateLevel/Alu8bit.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module Alu8bit
+
+Top level modules:
+	Alu8bit
+
+} {} {}} F:/modelsim/examples/workspace/ALUgateLevel/Alu8bitTest.v {2 {vlog -work work -vopt F:/modelsim/examples/workspace/ALUgateLevel/Alu8bitTest.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module Alu8bitTest
+** Warning: F:/modelsim/examples/workspace/ALUgateLevel/Alu8bitTest.v(15): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+
+Top level modules:
+	Alu8bitTest
+
+} {} {}}
