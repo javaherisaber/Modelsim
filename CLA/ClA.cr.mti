@@ -1,0 +1,50 @@
+F:/modelsim/examples/workspace/CLA/Cla8bitGenerator.v {1 {vlog -work work -vopt {F:\modelsim\examples\workspace\CLA\Cla8bitGenerator.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module Cla8bitGenerator
+
+Top level modules:
+	Cla8bitGenerator
+
+} {} {}} F:/modelsim/examples/workspace/CLA/Ripple8bitTest.v {1 {vlog -work work -vopt {F:\modelsim\examples\workspace\CLA\Ripple8bitTest.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module Ripple8bitTest
+
+Top level modules:
+	Ripple8bitTest
+
+} {} {}} F:/modelsim/examples/workspace/CLA/CLA8bitTest.v {1 {vlog -work work -vopt {F:\modelsim\examples\workspace\CLA\CLA8bitTest.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module CLA8bitTest
+
+Top level modules:
+	CLA8bitTest
+
+} {} {}} F:/modelsim/examples/workspace/CLA/CLA8bit.v {1 {vlog -work work -vopt {F:\modelsim\examples\workspace\CLA\CLA8bit.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module Cla8bit
+
+Top level modules:
+	Cla8bit
+
+} {} {}} F:/modelsim/examples/workspace/CLA/FullAdder.v {1 {vlog -work work -vopt {F:\modelsim\examples\workspace\CLA\FullAdder.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module adder
+
+Top level modules:
+	adder
+
+} {} {}} F:/modelsim/examples/workspace/CLA/Ripple8bitAdder.v {1 {vlog -work work -vopt {F:\modelsim\examples\workspace\CLA\Ripple8bitAdder.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module adder8bit
+
+Top level modules:
+	adder8bit
+
+} {} {}} F:/modelsim/examples/workspace/CLA/CMPclaRippleTest.v {1 {vlog -work work -vopt {F:\modelsim\examples\workspace\CLA\CMPclaRippleTest.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module CMPclaRippleTest
+
+Top level modules:
+	CMPclaRippleTest
+
+} {} {}}
