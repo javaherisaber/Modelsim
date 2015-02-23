@@ -1,0 +1,125 @@
+# Compile of Sequential_100_Detect.v was successful.
+vsim -novopt work.test_moore
+# vsim -novopt work.test_moore 
+# Refreshing G:/modelsim workSpace/Sequential_100_Detect/work.test_moore
+# Loading work.test_moore
+# Refreshing G:/modelsim workSpace/Sequential_100_Detect/work.Sequential_100_Detector_moore
+# Loading work.Sequential_100_Detector_moore
+run
+#                    0input moore: x output moore: x
+#                    4input moore: 1 output moore: x
+#                    5input moore: 1 output moore: 0
+#                   16input moore: 0 output moore: 0
+#                   28input moore: 1 output moore: 0
+#                   32input moore: 0 output moore: 0
+#                   35input moore: 0 output moore: 1
+#                   45input moore: 0 output moore: 0
+quit -sim
+vsim -novopt work.test_moore
+# vsim -novopt work.test_moore 
+# Loading work.test_moore
+# Loading work.Sequential_100_Detector_moore
+add wave -position insertpoint  \
+sim:/test_moore/reset \
+sim:/test_moore/i \
+sim:/test_moore/f \
+sim:/test_moore/clk
+run
+#                    0input moore: x output moore: x
+#                    4input moore: 1 output moore: x
+#                    5input moore: 1 output moore: 0
+#                   16input moore: 0 output moore: 0
+#                   28input moore: 1 output moore: 0
+#                   32input moore: 0 output moore: 0
+#                   35input moore: 0 output moore: 1
+#                   45input moore: 0 output moore: 0
+quit -sim
+# Compile of Sequential_100_Detect.v was successful.
+vsim -novopt work.test_moore
+# vsim -novopt work.test_moore 
+# Refreshing G:/modelsim workSpace/Sequential_100_Detect/work.test_moore
+# Loading work.test_moore
+# Refreshing G:/modelsim workSpace/Sequential_100_Detect/work.Sequential_100_Detector_moore
+# Loading work.Sequential_100_Detector_moore
+add wave -position insertpoint  \
+sim:/test_moore/reset \
+sim:/test_moore/i \
+sim:/test_moore/f \
+sim:/test_moore/clk
+run
+#                    0input moore: x output moore: x
+#                   40input moore: 1 output moore: x
+#                   50input moore: 1 output moore: 0
+#                  160input moore: 0 output moore: 0
+#                  280input moore: 1 output moore: 0
+#                  320input moore: 0 output moore: 0
+#                  350input moore: 0 output moore: 1
+#                  450input moore: 0 output moore: 0
+restart
+run
+#                    0input moore: x output moore: x
+#                   40input moore: 1 output moore: x
+restart
+run
+#                    0input moore: x output moore: x
+#                   40input moore: 1 output moore: x
+#                   50input moore: 1 output moore: 0
+#                  160input moore: 0 output moore: 0
+#                  280input moore: 1 output moore: 0
+#                  320input moore: 0 output moore: 0
+#                  350input moore: 0 output moore: 1
+#                  450input moore: 0 output moore: 0
+restart
+run
+#                    0input moore: x output moore: x
+#                   40input moore: 1 output moore: x
+#                   50input moore: 1 output moore: 0
+#                  160input moore: 0 output moore: 0
+#                  280input moore: 1 output moore: 0
+#                  320input moore: 0 output moore: 0
+#                  350input moore: 0 output moore: 1
+#                  450input moore: 0 output moore: 0
+# Compile of Sequential_100_Detect.v was successful.
+# Load canceled
+vsim -novopt work.test_moore
+# vsim -novopt work.test_moore 
+# Refreshing G:/modelsim workSpace/Sequential_100_Detect/work.test_moore
+# Loading work.test_moore
+# Refreshing G:/modelsim workSpace/Sequential_100_Detect/work.Sequential_100_Detector_moore
+# Loading work.Sequential_100_Detector_moore
+add wave -position insertpoint  \
+sim:/test_moore/reset \
+sim:/test_moore/i \
+sim:/test_moore/f \
+sim:/test_moore/clk
+run
+#                    0input moore: x output moore: x
+#                   50input moore: x output moore: 0
+#                  120input moore: 1 output moore: 0
+#                  160input moore: 0 output moore: 0
+#                  280input moore: 1 output moore: 0
+#                  320input moore: 0 output moore: 0
+#                  350input moore: 0 output moore: 1
+#                  450input moore: 0 output moore: 0
+quit -sim
+# Compile of Sequential_100_Detect.v was successful.
+vsim -novopt work.test_mealy
+# vsim -novopt work.test_mealy 
+# Refreshing G:/modelsim workSpace/Sequential_100_Detect/work.test_mealy
+# Loading work.test_mealy
+# Refreshing G:/modelsim workSpace/Sequential_100_Detect/work.Sequential_100_Detector_mealy
+# Loading work.Sequential_100_Detector_mealy
+add wave -position insertpoint  \
+sim:/test_mealy/reset \
+sim:/test_mealy/i \
+sim:/test_mealy/f \
+sim:/test_mealy/clk
+run
+#                    0input : x output : x
+#                   50input : x output : 0
+#                  120input : 1 output : 0
+#                  160input : 0 output : 0
+#                  250input : 0 output : 1
+#                  350input : 0 output : 0
+# Causality operation skipped due to absense of debug database file
+quit -sim
